@@ -12,6 +12,7 @@ namespace myConsoleApplication
         {
             Console.Out.Write("This is a test");
 
+            Console.Out.Write("This is a change to child1 branch initially");
 
         }
     }
